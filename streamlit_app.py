@@ -1,6 +1,4 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Penis"
-)
+st.title("Hello World App")
+st.write("Hello World")
